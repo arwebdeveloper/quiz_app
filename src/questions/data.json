@@ -1,0 +1,112 @@
+ [
+    {
+        "question": "'OS' computer abbreviation usually means ?",
+        "options": [
+            "Order of Significance",
+            "Open Software",
+            "Operating System",
+            "Optical Sensor"
+        ],
+        "answer": "Operating System",
+        "name": "q1"
+    },
+    {
+        "question": "'.MOV' extension refers usually to what kind of file?",
+        "options": [
+            "Image file",
+            "Animation/movie file",
+            "Audio file",
+            "MS Office document"
+        ],
+        "answer": "Animation/movie file",
+        "name": "q2"
+    },
+    {
+        "question": "Who developed Yahoo?",
+        "options": [
+            "Dennis Ritchie & Ken Thompson",
+            "David Filo & Jerry Yang",
+            "Vint Cerf & Robert Kahn",
+            "Steve Case & Jeff Bezos"
+        ],
+        "answer": "David Filo & Jerry Yang",
+        "name": "q3"
+    },
+    {
+        "question": "'DB' computer abbreviation usually means ?",
+        "options": [
+            "Database",
+            "Double Byte",
+            "Data Block",
+            "Driver Boot"
+        ],
+        "answer": "Database",
+        "name": "q4"
+    },
+    {
+        "question": "What does AM mean?",
+        "options": [
+            "Angelo marconi",
+            "Anno median",
+            "Amplitude modulation",
+            "Amperes"
+        ],
+        "answer": "Amplitude modulation",
+        "name": "q5"
+    },
+    {
+        "question": "Who was known as Iron man of India?",
+        "options": [
+            "Govind Ballabh Pant",
+            "Jawaharlal Nehru",
+            "Subhash Chandra Bose",
+            "Sardar Vallabhbhai Patel"
+        ],
+        "answer": "Sardar Vallabhbhai Patel",
+        "name": "q6"
+    },
+    {
+        "question": "Michael Jackson is a distinguished person in the field of?",
+        "options": [
+            "Pop Music",
+            "Jounalism",
+            "Sports",
+            "Acting"
+        ],
+        "answer": "Pop Music",
+        "name": "q7"
+    },
+    {
+        "question": "'Dandia' is a popular dance of",
+        "options": [
+            "Punjab",
+            "Gujarat",
+            "Tamil Nadu",
+            "Maharashtra"
+        ],
+        "answer": "Gujarat",
+        "name": "q8"
+    },
+    {
+        "question": "The National Song of India was composed by",
+        "options": [
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterji",
+            "Iqbal",
+            "Jai Shankar Prasad"
+        ],
+        "answer": "Bankim Chandra Chatterji",
+        "name": "q9"
+    },
+    {
+        "question": "ESCAP stands for",
+        "options": [
+            "Economic and Social Commission for Asia and Pacific",
+            "European Society Council for Africa and Pacific",
+            "Economic and Social Commission for Africa and Pacific",
+            "None of the above"
+        ],
+        "answer": "Economic and Social Commission for Asia and Pacific",
+        "name": "q10"
+    }
+]
